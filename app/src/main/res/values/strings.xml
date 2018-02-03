@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">elemenText</string>
+    <string name="judul">belajar Android Vol.1</string>
+    <string name="sub_artikel">Ini sub Judul </string>
+    <string name="text_artikel"><b>“A fabulously innovative work </b>\n\n
+        both in substance and style… Historical characters and Bove’s own creations drive the novel forward with the gonzo bravado of Dr. Hunter S. Thompson and Norman Mailer… The iBooks edition embeds links to \n\n
+        the music that is so important to the story and it’s hard to imagine a better use of e-book technology. www.google.com”</string>
+
+</resources>
